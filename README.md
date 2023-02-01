@@ -1,5 +1,4 @@
 # Hartree-Fock-theory-for-Hydrogen
-Use computational chemistry method and HF theory to build a model of Hydrogen with Python.
 
 Replaced the exact N-body wave function of the system with a single Slater determinant in time-independent Schrödinger equation.
 
