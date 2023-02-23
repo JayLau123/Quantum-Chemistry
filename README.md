@@ -8,4 +8,4 @@ Solved the physical quantities matrix model with Born-Oppenheimer Approximation,
 
 Please find more details in jupyter notebook.
 
-Useful links: http://butane.chem.illinois.edu/sohirata/
+Useful link: http://butane.chem.illinois.edu/sohirata/
