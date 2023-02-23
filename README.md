@@ -7,3 +7,5 @@ Used Hartree-Fock theory to build a numerical model for hydrogen with 6-31G basi
 Solved the physical quantities matrix model with Born-Oppenheimer Approximation, and the quantitive relation of total energy and bond distance of a single molecule.
 
 Please find more details in jupyter notebook.
+
+Useful links: http://butane.chem.illinois.edu/sohirata/
