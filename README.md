@@ -1,10 +1,10 @@
-## The Materials Project
+### The Materials Project
 
 **by the Lawrence Berkeley National Laboratory**
 
 https://materialsproject.org/
 
-The database contains over 1M computed properties based on DFT and HPC.
+The database contains over 1M computed properties based on DFT and HPC. But most of them are calculated by cheap and not very accurate methods
 
 Introduction: Harnessing the power of supercomputing and state-of-the-art methods, the Materials Project provides open web-based access to computed information on known and predicted materials as well as powerful analysis tools to inspire and design novel materials.
 
