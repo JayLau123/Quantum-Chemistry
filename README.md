@@ -1,6 +1,8 @@
-## Strongly recommended open source: 
+## The Materials Project
 
-**The Materials Project(by the Lawrence Berkeley National Laboratory)** https://materialsproject.org/
+**by the Lawrence Berkeley National Laboratory**
+
+https://materialsproject.org/
 
 The database contains over 1M computed properties based on DFT and HPC.
 
