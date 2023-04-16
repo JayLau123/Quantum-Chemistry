@@ -1,4 +1,14 @@
-# Hartree-Fock-theory-for-Hydrogen
+## Strongly recommended open source: 
+
+**The Materials Project(by the Lawrence Berkeley National Laboratory)** https://materialsproject.org/
+
+The database contains over 1M computed properties based on DFT and HPC.
+
+Introduction: Harnessing the power of supercomputing and state-of-the-art methods, the Materials Project provides open web-based access to computed information on known and predicted materials as well as powerful analysis tools to inspire and design novel materials.
+
+
+
+### Hartree-Fock-theory-for-Hydrogen
 
 Replaced the exact N-body wave function of the system with a single Slater determinant in time-independent Schrödinger equation.
 
@@ -10,7 +20,7 @@ Please find more details in jupyter notebook.
 
 Useful link: http://butane.chem.illinois.edu/sohirata/
 
-# DFT workflow
+### DFT workflow
 
 Please see the jupyter notebook for more details
 
