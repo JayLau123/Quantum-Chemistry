@@ -30,7 +30,13 @@ Please see the jupyter notebook for more details
 
 ### Computational chemistry packages. Widen the scope of quantum simulation applications 
 
-Gaussian： 
+**Kwant:**
+
+https://kwant-project.org/
+
+https://pypi.org/project/kwant/
+
+**Gaussian:** 
 
 https://gaussian.com/
 
@@ -38,7 +44,7 @@ https://emleddin.github.io/comp-chem-website/Otherguide-gaussian-overview.html
 
 https://sites.google.com/site/rangsiman1993/comp-chem/techniques/learn-comp-chem-with-gaussian
 
-Orca： 
+**Orca:** 
 
 https://www.faccts.de/orca/
 
