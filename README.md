@@ -24,6 +24,8 @@ Useful link: http://butane.chem.illinois.edu/sohirata/
 
 ### DFT workflow
 
+Although the DFT model is often a simplification of the true electronic structure of materials, it is computationally efficient and provides valuable insights into the essential physics.
+
 Please see the jupyter notebook for more details
 
 <img width="584" alt="Screenshot 2023-03-20 at 17 44 13" src="https://user-images.githubusercontent.com/98719524/229385630-4ee01b62-f897-44dc-baf1-bb96d9830ada.png">
