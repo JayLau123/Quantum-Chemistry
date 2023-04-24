@@ -69,4 +69,11 @@ https://hpc.hku.hk/hpc/software/orca/
 
 https://www.orcasoftware.de/tutorials_orca/
 
+**Quantum Espresso**
+
+https://www.quantum-espresso.org/
+
+https://github.com/QEF
+
+https://docs.pace.gatech.edu/software/quantumEspresso/
 
