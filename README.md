@@ -27,11 +27,11 @@ Introduction: Harnessing the power of supercomputing and state-of-the-art method
 
 ### Hartree-Fock-theory-for-Hydrogen
 
-Replaced the exact N-body wave function of the system with a single Slater determinant in time-independent Schrödinger equation.
+**Why started from hydrogen atom?**
 
-Used Hartree-Fock theory to build a numerical model for hydrogen with 6-31G basis from Basis Set Exchange and solved the equation using a nonlinear method and self-consistent field method.
+Hydrogen is the most abundant element in the universe. From outer space to stars, and to many substances on Earth, hydrogen is ubiquitous. Hydrogen is the first element in the periodic table, and its single atom is also the simplest of all elements, with only one proton and one electricity, which makes hydrogen a starting point for constructing and testing theories like hydrogen spectral series in quantum mechanics history.
 
-Solved the physical quantities matrix model with Born-Oppenheimer Approximation, and the quantitive relation of total energy and bond distance of a single molecule.
+Replaced the exact N-body wave function of the system with a single Slater determinant in time-independent Schrödinger equation. Used Hartree-Fock theory to build a numerical model for hydrogen with 6-31G basis from Basis Set Exchange and solved the equation using a nonlinear method and self-consistent field method. Solved the physical quantities matrix model with Born-Oppenheimer Approximation, and the quantitive relation of total energy and bond distance of a single molecule.
 
 Please find more details in jupyter notebook.
 
