@@ -14,10 +14,12 @@ Quantum chemistry has applications in various fields, including materials scienc
 
 
 ### The Materials Project
-https://materialsproject.org/materials
+
+https://materialsproject.org/
 
 **Periodic table**
-https://materialsproject.org/
+https://materialsproject.org/materials
+
 
 The database contains over 1M computed properties based on DFT and HPC. But most of them are calculated by cheap and not very accurate methods
 
