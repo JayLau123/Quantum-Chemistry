@@ -79,3 +79,43 @@ https://github.com/QEF
 
 https://docs.pace.gatech.edu/software/quantumEspresso/
 
+### Python + Quantum sciencce & engineering
+
+The realm of spectroscopy and quantum mechanics is vast, and there are several Python packages that cater to various aspects of these fields. Here are some popular Python packages used in these domains:
+
+1. **QuTiP (Quantum Toolbox in Python)**:
+    - Focus: Quantum mechanics and quantum information systems.
+    - Features: Enables computations related to open quantum systems, quantum optics, qubits, and more.
+
+2. **PySCF (Python for Strongly Correlated Electron Systems)**:
+    - Focus: Quantum chemistry.
+    - Features: Provides a suite of programs for electronic structure calculations, including Hartree-Fock and various post-Hartree-Fock methods.
+
+3. **Psi4**:
+    - Focus: Quantum chemistry.
+    - Features: An open-source suite for ab initio quantum chemistry computations.
+
+4. **ASE (Atomic Simulation Environment)**:
+    - Focus: Atomic scale simulations.
+    - Features: Allows atomistic simulations of solid-state systems, molecules, chemical reactions, etc., and interfaces with various other simulation engines.
+
+5. **Spectral Python (SPy)**:
+    - Focus: Spectroscopy, especially hyperspectral image processing.
+    - Features: Offers functions for visualizing, classifying, and analyzing hyperspectral data.
+
+6. **QMTools**:
+    - Focus: Quantum mechanics and quantum chemistry.
+    - Features: Provides utilities for data extraction, transformation, and visualization from quantum mechanics simulations.
+
+7. **GPkit**:
+    - Focus: Spectroscopy.
+    - Features: A package for defining and manipulating geometric programming (GP) models, which can be useful in certain spectroscopy applications.
+
+8. **pyspectools**:
+    - Focus: Spectroscopy data handling and analysis.
+    - Features: Allows for assignments, simulations, and plotting of spectra, particularly useful for rotational spectroscopy.
+
+9. **libra-python**:
+    - Focus: Quantum dynamics simulations.
+    - Features: Useful for studying molecular and electronic dynamics in various systems.
+
